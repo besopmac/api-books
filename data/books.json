@@ -8,7 +8,22 @@
         "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
         "pages": 209,
         "title": "Things Fall Apart",
-        "year": 1958
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1958,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 2,
@@ -19,7 +34,22 @@
         "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
         "pages": 784,
         "title": "Fairy tales",
-        "year": 1836
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1836,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 3,
@@ -30,7 +60,18 @@
         "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
         "pages": 928,
         "title": "The Divine Comedy",
-        "year": 1315
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1315,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Classic"
+            },
+            {
+                "id": 2,
+                "name": "Epic"
+            }
+        ]
     },
     {
         "id": 4,
@@ -41,7 +82,22 @@
         "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
         "pages": 160,
         "title": "The Epic Of Gilgamesh",
-        "year": -1700
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": -1700,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 5,
@@ -52,7 +108,22 @@
         "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
         "pages": 176,
         "title": "The Book Of Job",
-        "year": -600
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": -600,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 6,
@@ -63,7 +134,22 @@
         "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
         "pages": 288,
         "title": "One Thousand and One Nights",
-        "year": 1200
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1200,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 7,
@@ -74,7 +160,14 @@
         "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
         "pages": 384,
         "title": "Njál's Saga",
-        "year": 1350
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1350,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 8,
@@ -85,7 +178,14 @@
         "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
         "pages": 226,
         "title": "Pride and Prejudice",
-        "year": 1813
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1813,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Fictional"
+            }
+        ]
     },
     {
         "id": 9,
@@ -96,7 +196,21 @@
         "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
         "pages": 443,
         "title": "Le Père Goriot",
-        "year": 1835
+        "year": 1835,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 10,
@@ -107,7 +221,22 @@
         "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
         "pages": 256,
         "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-        "year": 1952
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1952,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 11,
@@ -118,7 +247,22 @@
         "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
         "pages": 1024,
         "title": "The Decameron",
-        "year": 1351
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1351,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 12,
@@ -129,7 +273,22 @@
         "link": "https://en.wikipedia.org/wiki/Ficciones\n",
         "pages": 224,
         "title": "Ficciones",
-        "year": 1965
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1965,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 13,
@@ -140,7 +299,22 @@
         "link": "https://en.wikipedia.org/wiki/Wuthering_Heights\n",
         "pages": 342,
         "title": "Wuthering Heights",
-        "year": 1847
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1847,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 14,
@@ -151,7 +325,22 @@
         "link": "https://en.wikipedia.org/wiki/The_Stranger_(novel)\n",
         "pages": 185,
         "title": "The Stranger",
-        "year": 1942
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1942,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 15,
@@ -162,7 +351,22 @@
         "link": "\n",
         "pages": 320,
         "title": "Poems",
-        "year": 1952
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1952,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 16,
@@ -173,7 +377,14 @@
         "link": "https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night\n",
         "pages": 505,
         "title": "Journey to the End of the Night",
-        "year": 1932
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1932,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 17,
@@ -184,7 +395,22 @@
         "link": "https://en.wikipedia.org/wiki/Don_Quixote\n",
         "pages": 1056,
         "title": "Don Quijote De La Mancha",
-        "year": 1610
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1610,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 18,
@@ -195,7 +421,22 @@
         "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
         "pages": 544,
         "title": "The Canterbury Tales",
-        "year": 1450
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1450,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 19,
@@ -206,7 +447,22 @@
         "link": "https://en.wikipedia.org/wiki/List_of_short_stories_by_Anton_Chekhov\n",
         "pages": 194,
         "title": "Stories",
-        "year": 1886
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1886,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Historical"
+            },
+            {
+                "id": 2,
+                "name": "Fictional"
+            },
+            {
+                "id": 3,
+                "name": "Adventure"
+            }
+        ]
     },
     {
         "id": 20,
@@ -217,6 +473,17 @@
         "link": "https://en.wikipedia.org/wiki/Nostromo\n",
         "pages": 320,
         "title": "Nostromo",
-        "year": 1904
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, ex! Libero officiis, dolorum accusamus voluptates nesciunt, non saepe magni sint iure ipsam, deleniti rem. Corrupti ea deserunt numquam placeat neque?",
+        "year": 1904,
+        "categories": [
+            {
+                "id": 1,
+                "name": "Fictional"
+            },
+            {
+                "id": 2,
+                "name": "Adventure"
+            }
+        ]
     }
 ]
